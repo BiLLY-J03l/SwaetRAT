@@ -1,0 +1,8 @@
+﻿  rat_modules.c
+D:\Malware Dev for ethical hackers - course\projects\19- UPCOMING\SwaetRAT\RAT\src\rat_modules.c(63,3): warning C4098: 'InitConn': 'void' function returning a value
+D:\Malware Dev for ethical hackers - course\projects\19- UPCOMING\SwaetRAT\RAT\src\rat_modules.c(130,26): warning C4244: '=': conversion from 'INT_PTR' to 'u_short', possible loss of data
+D:\Malware Dev for ethical hackers - course\projects\19- UPCOMING\SwaetRAT\RAT\src\rat_modules.c(131,33): warning C4244: '=': conversion from 'INT_PTR' to 'ULONG', possible loss of data
+D:\Malware Dev for ethical hackers - course\projects\19- UPCOMING\SwaetRAT\RAT\src\rat_modules.c(142,13): warning C4244: '=': conversion from 'INT_PTR' to 'int', possible loss of data
+D:\Malware Dev for ethical hackers - course\projects\19- UPCOMING\SwaetRAT\RAT\src\rat_modules.c(153,17): warning C4244: '=': conversion from 'INT_PTR' to 'DWORD', possible loss of data
+D:\Malware Dev for ethical hackers - course\projects\19- UPCOMING\SwaetRAT\RAT\src\rat_modules.c(349,8): warning C4047: '=': 'HHOOK' differs in levels of indirection from 'INT_PTR'
+  RAT.vcxproj -> D:\Malware Dev for ethical hackers - course\projects\19- UPCOMING\SwaetRAT\RAT\x64\Debug\RAT.exe

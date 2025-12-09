@@ -1,0 +1,4 @@
+﻿  dropper.c
+D:\Malware Dev for ethical hackers - course\projects\19- UPCOMING\SwaetRAT\dropper\src\dropper.c(60,12): warning C4047: 'function': 'FARPROC' differs in levels of indirection from 'HMODULE'
+D:\Malware Dev for ethical hackers - course\projects\19- UPCOMING\SwaetRAT\dropper\src\dropper.c(60,12): warning C4024: 'PatchAMSI': different types for formal and actual parameter 1
+  dropper.vcxproj -> D:\Malware Dev for ethical hackers - course\projects\19- UPCOMING\SwaetRAT\dropper\x64\Debug\dropper.exe
